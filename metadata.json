@@ -1,0 +1,6 @@
+{
+  "name": "Elector Data Portal",
+  "description": "A search and update portal for elector information integrated with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
